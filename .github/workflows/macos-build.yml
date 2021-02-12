@@ -21,7 +21,7 @@ on:
 
 env:
   QT_VERSION: 5.14.2
-  QGIS_DEPS_VERSION: 0.5.4
+  QGIS_DEPS_VERSION: 0.7.0
 
 jobs:
   mac_os_build:
